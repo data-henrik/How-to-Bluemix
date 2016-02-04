@@ -31,7 +31,7 @@ I didn't know that for a long time, but there is a "How to" section for all kind
 There are also GitHub repositories maintained by various teams that offer great tutorials and sample apps. I will link to them in an update to this first blog.
 
 ## Bluemix Status and Updates
-The status of Bluemix and its core parts as well as of most of its services can be seen on its dedicated Bluemix status page. On that same page you find a link to the RSS/atom feed of Bluemix notifications. Make sure to subscribe for service news.
+The status of Bluemix and its core parts as well as of most of its services can be seen on its dedicated [Bluemix status page](https://developer.ibm.com/bluemix/support/#status). On that same page you find a link to the [RSS/atom feed of Bluemix notifications](https://status.eu-gb.bluemix.net/api/feed/notifications/feed.rss). Make sure to subscribe for service news.
 
 ## Getting Help
 There are a couple options to get help or to dig deeper into technical issues. Questions can be directly send to the Bluemix Support or asked at developerWorks Answers or Stack Overflow. The documentation pages for many of the services also link to detailed product manuals for the software products building the foundation for the SaaS offering.
