@@ -1,10 +1,10 @@
 # How to Navigate Bluemix - My Starter Guide
 Note that this guide is based on my blog http://blog.4loeser.net/2016/02/how-to-navigate-bluemix-my-starter-guide.html
 
-Coming from a product like DB2 with a focus on operational and feature stability, consistency and high availability, and now working with a product or, better, platform like Bluemix feels like an entirely different world. At least at first sight. Truth is that I feel at home once I learned to navigate it. Here is the first installment of my "how to bluemix"...
+Coming from a product like DB2 with a focus on operational and feature stability, consistency and high availability, and now working with a product or, better, platform like [Bluemix](http://bluemix.net) feels like an entirely different world. At least at first sight. Truth is that I feel at home once I learned to navigate it. Here is the first installment of my "how to bluemix"...
 
 ## Bluemix by Region and Organization
-Once you have logged into IBM Bluemix, in most of the cases the dashboard should be show. Its content and also the services offered to you in the Bluemix catalog depend on the selected region and the organization (see screenshot on the right). Bluemix and its services are hosted in different data centers around the world (regions) and not all services are available in each data center. You can find out which regions are available and which services are supported in a region by checking out the Bluemix status page (also see the section below).
+Once you have logged into [IBM Bluemix](http://bluemix.net), in most of the cases the dashboard should be show. Its content and also the services offered to you in the Bluemix catalog depend on the selected region and the organization (see screenshot on the right). [Bluemix and its services are hosted in different data centers around the world (regions) and not all services are available in each data center](https://www.ng.bluemix.net/docs/overview/index.html). You can find out which regions are available and which services are supported in a region by checking out the [Bluemix status page](https://developer.ibm.com/bluemix/support/#status) (also see the section below).
 
 Each user can belong to several organizations and each "org" has its own resources. Depending on the selected organization you are going to see different statistics in your dashboard.
 
