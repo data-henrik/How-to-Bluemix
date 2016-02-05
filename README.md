@@ -6,7 +6,7 @@ Coming from a product like DB2 with a focus on operational and feature stability
 ## Bluemix by Region and Organization
 Once you have logged into [IBM Bluemix](http://bluemix.net), in most of the cases the dashboard should be show. Its content and also the services offered to you in the Bluemix catalog depend on the selected region and the organization (see screenshot on the right). [Bluemix and its services are hosted in different data centers around the world (regions) and not all services are available in each data center](https://www.ng.bluemix.net/docs/overview/index.html). You can find out which regions are available and which services are supported in a region by checking out the [Bluemix status page](https://developer.ibm.com/bluemix/support/#status) (also see the section below).
 
-Each user can belong to several organizations and each "org" has its own resources. Depending on the selected organization you are going to see different statistics in your dashboard.
+[Each user can belong to several organizations](https://www.ng.bluemix.net/docs/admin/index.html) and each "org" has its own resources. Depending on the selected organization you are going to see different statistics in your dashboard.
 
 To get started with these and other concepts I recommend reading the overview sections of the manual. Which brings up the next section...
 
@@ -16,7 +16,7 @@ The documentation for Bluemix and its services is all available under "/docs" in
 ## Services, Boilerplates, Runtimes, and more...
 All the important stuff, namely the 100+ services, can be found in the "catalog". It is organized by starter kits (so-called boilerplates) and service categories. Database systems as a service, Spark and Hadoop for analytics, NoSQL database engines and more can be found under the "Data and Analytics" category.
 
-Services to securely integrate your own data centers (on-premises resources or "systems of record") can be found under the integration category. At the bottom of the catalog is also a link to another catalog which offers experimental services. It is the Bluemix Labs Catalog which provides this glimpse at the future. Given all these services, now what? Either just click on one to provision that service or read a tutorial.
+Services to securely integrate your own data centers (on-premises resources or "systems of record") can be found under the integration category. At the bottom of the catalog is also a link to another catalog which offers experimental services. It is the [Bluemix Labs Catalog](https://console.ng.bluemix.net/catalog/labs/) which provides this glimpse at the future. Given all these services, now what? Either just click on one to provision that service or read a tutorial.
 
 ## How to...?
 I didn't know that for a long time, but there is a "How to" section for all kinds of Bluemix topics and technologies:
