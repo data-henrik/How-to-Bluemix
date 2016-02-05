@@ -21,12 +21,12 @@ Services to securely integrate your own data centers (on-premises resources or "
 ## How to...?
 I didn't know that for a long time, but there is a "How to" section for all kinds of Bluemix topics and technologies:
 
-  * A page with guides related to Bluemix and Data Management,
-  * a collection on Bluemix and Internet of Things,
-  * another one for Bluemix and Watson/Cognitive Computing,
-  * tutorials on Bluemix and DevOps, continous delivery and integration,
-  * or Bluemix and mobile applications including iOS and Mobile First,
-  * and guides for Bluemix and web applications.
+  * A page with [guides related to Bluemix and Data Management](https://developer.ibm.com/bluemix/data-management-how-to/),
+  * a [collection on Bluemix and Internet of Things](https://developer.ibm.com/bluemix/iot-how-to/),
+  * another one for [Bluemix and Watson/Cognitive Computing](https://developer.ibm.com/bluemix/watson-how-to/),
+  * [tutorials on Bluemix and DevOps, continous delivery and integration](https://developer.ibm.com/bluemix/devops-how-to/),
+  * or [Bluemix and mobile applications](https://developer.ibm.com/bluemix/ios-and-mobilefirst-how-to/) including iOS and Mobile First,
+  * and [guides for Bluemix and web applications](https://developer.ibm.com/bluemix/web-and-application-how-to/).
 
 There are also GitHub repositories maintained by various teams that offer great tutorials and sample apps. I will link to them in an update to this first blog.
 
@@ -36,10 +36,10 @@ The status of Bluemix and its core parts as well as of most of its services can 
 ## Getting Help
 There are a couple options to get help or to dig deeper into technical issues. Questions can be directly send to the Bluemix Support or asked at developerWorks Answers or Stack Overflow. The documentation pages for many of the services also link to detailed product manuals for the software products building the foundation for the SaaS offering.
 
-* Bluemix Support: Free support is provided through the Bluemix Community on developerWorks. For standard support click on the circled head icon on the right upper hand on the Bluemix site (from within your Bluemix account) and then click on either "Get help" to open a support ticked or "Submit an Idea" for feature suggestions (as shown in the screenshot above).
-* developerWorks Answers (dW Answers) is a question and answer site. Questions are tagged with topics and Bluemix and some of its services have a tag of their own.
-* More popular in general, but not necessarily with Bluemix questions is Stack Overflow. Many of the services have their own tag and it is important before asking to remember that Stack Overflow is focussed on programming questions. So hold back with general questions and ask them at dW Answers.
+* [Bluemix Support](https://developer.ibm.com/bluemix/support/): Free support is provided through the [Bluemix Community on developerWorks](https://developer.ibm.com/bluemix/). For standard support click on the circled head icon on the right upper hand on the Bluemix site (from within your Bluemix account) and then click on either "Get help" to open a support ticked or "Submit an Idea" for feature suggestions (as shown in the screenshot above).
+* [developerWorks Answers (dW Answers)](https://developer.ibm.com/answers/topics/bluemix/) is a question and answer site. Questions are tagged with topics and Bluemix and some of its services have a tag of their own.
+* More popular in general, but not necessarily with [Bluemix questions is Stack Overflow](http://stackoverflow.com/questions/tagged/bluemix). Many of the services have their own tag and it is important before asking to remember that Stack Overflow is focussed on programming questions. So hold back with general questions and ask them at dW Answers.
 
-The discussed options are also shown on the Bluemix Support webpage together with known issues and the current Bluemix status.
+The discussed options are also shown on the [Bluemix Support webpage](https://developer.ibm.com/bluemix/support/) together with known issues and the current Bluemix status.
 
 So much for the first installment. Comments are welcome and I plan to extend and update this guide. 
